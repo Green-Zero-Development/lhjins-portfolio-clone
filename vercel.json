@@ -1,0 +1,6 @@
+{
+    "trailingSlash": false,
+    "redirects": [
+        { "source": "/our-team", "destination": "/our-company" }
+    ]
+}

@@ -1,0 +1,1 @@
+# Developed by me using NextJS (Frontend) and Wordpress (Backend).
